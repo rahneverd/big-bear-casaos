@@ -11,7 +11,7 @@ If you have a feature request please post in the [BigBearCommunity](https://comm
 ## App Store URL
 
 ```text
-https://github.com/bigbeartechworld/big-bear-casaos/archive/refs/heads/master.zip
+https://github.com/rahneverd/big-bear-casaos/master.zip
 ```
 
 ## App Store Suggestions
